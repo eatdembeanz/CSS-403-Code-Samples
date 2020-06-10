@@ -1,0 +1,6 @@
+https://github.com/eatdembeanz/CSS-403-Code-Samples/tree/master/Final%20Project
+
+----Key things changed----
+Background and text changed to firebrick red and green text.
+Attempt at a carousel made, currently troubleshooting why it isn't acting like a slideshow.
+Beginnings of tooltip JS for links added, to be filled out.
