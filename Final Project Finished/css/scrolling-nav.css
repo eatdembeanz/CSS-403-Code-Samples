@@ -10,10 +10,20 @@ header {
 section {
   padding: 150px 0;
 }
-div [id='Demo1]{
-    padding-top: 20px;
+#BadExample{
+    background-color:crimson;
+    color:aliceblue;
 }
 
-section [id=about]{
-    background-color:aqua
+#about{
+    background-color:aquamarine
+}
+#GoodExample{
+    background-color: chartreuse;
+    color:brown;
+}
+
+#services{
+    background-color:aqua;
+        
 }
